@@ -88,7 +88,7 @@ def make_lookup_table
 	xx_res = xx.execute!;
 	xx_res.map { |e| e[1].downcase! };
 	
-	CSV.open("itis_lookup.csv", "w") do |csv|
+	CSV.open("data/itis_lookup.csv", "w") do |csv|
 		csv << ["tsn","rank_name"]
 	  xx_res.each do |m|
 	  	csv << m
