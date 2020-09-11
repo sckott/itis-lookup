@@ -1,0 +1,22 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    faraday (1.0.1)
+      multipart-post (>= 1.2, < 3)
+    multipart-post (2.1.1)
+    rubyzip (2.3.0)
+    sqlite3 (1.4.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  faraday (~> 1.0, >= 1.0.1)
+  rubyzip (~> 2.3)
+  sqlite3 (~> 1.4, >= 1.4.2)
+
+RUBY VERSION
+   ruby 2.7.1p83
+
+BUNDLED WITH
+   2.1.4
