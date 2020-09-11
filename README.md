@@ -50,6 +50,6 @@ Or, you can do each separately with `rake fetch` then `rake make_table`
 
 * ITIS taxonomy citation:
 
-> FILL ME IN
+> FILL ME INa asdfads
 
 * ITIS taxonomy license: ???
