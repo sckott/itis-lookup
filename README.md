@@ -1,7 +1,7 @@
 ITIS taxonomy lookup
 ====================
 
-![build-sqlite](https://github.com/sckott/itis-lookup/workflows/build-sqlite/badge.svg)
+![build](https://github.com/sckott/itis-lookup/workflows/build/badge.svg)
 
 ITIS taxonomy lookup
 
